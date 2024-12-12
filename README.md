@@ -1,13 +1,26 @@
 # 👋 Hello, I'm Gaurav D!
+>.  
 
-🌟 Welcome to my GitHub profile! I'm a passionate < unity/.net/java/ programmer / software engineer > who loves < coding >.  
+# Software Developer JAVA | C++ | C# | Unity3D | AR/VR | WebXR | Springboot |.net | AI.CLOUD | 
 
-- 🌱 I’m currently learning ** C++, Java, Springboot & .net **  
-- 👯 I’m looking to collaborate on ** Game Development **  
-*  
-- 💬 Ask me about ** Game Development **  
+I am a Junior Software Developer with 3 years of experience specializing in creating immersive gaming experiences across AR/VR and WebXR platforms. My expertise lies in Unity3D, where I design scalable architectures, optimize game mechanics, and focus on enhancing user engagement and performance. 
 
----
+## Key Skills:
+- **Unity3D**: Experienced in developing applications for Oculus, HTC Vive, and Google Cardboard.
+- **AR/VR Development**: Crafting interactive experiences for leading AR/VR platforms.
+- **WebXR**: Expertise in building cross-platform web applications.
+- **Mentorship**: Passionate about guiding trainees in gameplay development and collaborative project work.
+- **Performance Optimization**: Proven ability to optimize game mechanics for smooth, engaging experiences.
+- **OTT Media Content**: Experience working with large datasets and live projects for top OTT media providers.
+
+## What I Do:
+- Design scalable and efficient game architectures.
+- Collaborate on the development of interactive AR/VR experiences.
+- Work in fast-paced environments to deliver innovative solutions with a focus on user experience.
+- Mentor junior developers and guide teams in gameplay development and technical challenges.
+
+Feel free to explore my work and contributions in this repository.
+
 
 
 ## 🛠️ Skills & Tools
