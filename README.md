@@ -2,12 +2,10 @@
 
 🌟 Welcome to my GitHub profile! I'm a passionate < unity/.net/java/ programmer / software engineer > who loves < coding >.  
 
-- 🌱 I’m currently learning **<Your Current Learning Topics>**  
-- 👯 I’m looking to collaborate on **<Your Collaboration Interests>**  
-- 📝 I write about **<Your Writing Topics>**  
-- 💬 Ask me about **<Your Expertise or Interests>**  
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**  
-- ⚡ Fun fact: **<Something Interesting About You>**
+- 🌱 I’m currently learning ** C++, Java, Springboot & .net **  
+- 👯 I’m looking to collaborate on ** Game Development **  
+*  
+- 💬 Ask me about ** Game Development **  
 
 ---
 
@@ -35,6 +33,5 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/<YourLinkedIn>)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=web&logoColor=white&style=flat)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/<YourTwitter>)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/deoregauravd)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/deoregauravd)
