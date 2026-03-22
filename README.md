@@ -3,7 +3,7 @@
 
 # Software Developer JAVA | C++ | C# | Unity3D | AR/VR | WebXR | Springboot |.net | AI.CLOUD | 
 
-I am a Junior Software Developer with 3 years of experience specializing in creating immersive gaming experiences across AR/VR and WebXR platforms. My expertise lies in Unity3D, where I design scalable architectures, optimize game mechanics, and focus on enhancing user engagement and performance. 
+I am a Software Developer with 4.8 years of experience specializing in creating immersive gaming experiences across AR/VR and WebXR platforms. My expertise lies in Unity3D, where I design scalable architectures, optimize game mechanics, and focus on enhancing user engagement and performance. 
 
 ## Key Skills:
 - **Unity3D**: Experienced in developing applications for Oculus, HTC Vive, and Google Cardboard.
