@@ -46,12 +46,20 @@ I am a Software Developer with nearly 5 years of experience architecting immersi
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 Engineering Metrics & Language Breakdown
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=deoregauravd&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deoregauravd&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deoregauravd&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deoregauravd&theme=radical&layout=donut&cache_seconds=1800" alt="Top Languages Donut Chart" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=deoregauravd&theme=radical&hide_border=true" alt="GitHub Streak" />
